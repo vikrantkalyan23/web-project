@@ -1,0 +1,30 @@
+.brand{
+    color: red;
+    font-weight: bold;
+  }
+  h1{
+    text-align: center;
+    padding: 15px;
+  }
+  h2{
+    text-align: center;
+    padding: 15px;
+  }
+  #services{
+    background-color: azure;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  #about{ 
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  #features{
+    background-color: floralwhite;
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
+  #talk_to_us{ 
+    margin-top: 20px;
+    padding-bottom: 20px;
+  }
